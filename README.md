@@ -64,11 +64,11 @@ python 01_linear_regression/linear_regression.py
 
 | ディレクトリ | アルゴリズム | 対象タスク | 詳細解説リンク |
 | :--- | :--- | :--- | :--- |
-| `01_linear_regression` | **線形回帰 (Linear Regression)** | 回帰（連続値の予測） | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/01_linear_regression/README.md) |
-| `02_logistic_regression` | **ロジスティック回帰 (Logistic Regression)** | 二値分類 | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/02_logistic_regression/README.md) |
-| `03_decision_tree` | **決定木 (Decision Tree)** | 非線形二値分類 | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/03_decision_tree/README.md) |
-| `04_deep_learning` | **多層パーセプトロン (MLP)** | 非線形回帰 | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/04_deep_learning/README.md) |
-| `05_kmeans` | **K-Meansクラスタリング** | クラスター分析（非監視学習） | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/05_kmeans/README.md) |
-| `06_knn` | **k近傍法 (k-NN)** | 分類（インスタンス学習） | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/06_knn/README.md) |
-| `07_naive_bayes` | **単純ベイズ分類器 (Naive Bayes)** | テキスト二値分類（スパムフィルタ） | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/07_naive_bayes/README.md) |
-| `08_random_forest` | **ランダムフォレスト (Random Forest)** | アンサンブル非線形分類 | [詳細説明はこちら](file:///home/nalt/ghq/github.com/Naruto-Takahashi/ml-dl-scratch/08_random_forest/README.md) |
+| `01_linear_regression` | **線形回帰 (Linear Regression)** | 回帰（連続値の予測） | [詳細説明はこちら](./01_linear_regression/README.md) |
+| `02_logistic_regression` | **ロジスティック回帰 (Logistic Regression)** | 二値分類 | [詳細説明はこちら](./02_logistic_regression/README.md) |
+| `03_decision_tree` | **決定木 (Decision Tree)** | 非線形二値分類 | [詳細説明はこちら](./03_decision_tree/README.md) |
+| `04_deep_learning` | **多層パーセプトロン (MLP)** | 非線形回帰 | [詳細説明はこちら](./04_deep_learning/README.md) |
+| `05_kmeans` | **K-Meansクラスタリング** | クラスター分析（非監視学習） | [詳細説明はこちら](./05_kmeans/README.md) |
+| `06_knn` | **k近傍法 (k-NN)** | 分類（インスタンス学習） | [詳細説明はこちら](./06_knn/README.md) |
+| `07_naive_bayes` | **単純ベイズ分類器 (Naive Bayes)** | テキスト二値分類（スパムフィルタ） | [詳細説明はこちら](./07_naive_bayes/README.md) |
+| `08_random_forest` | **ランダムフォレスト (Random Forest)** | アンサンブル非線形分類 | [詳細説明はこちら](./08_random_forest/README.md) |
